@@ -11,7 +11,7 @@ Program was tested on simulator (*MobileSim*) and real robot (*Seekur Jr*).
 
 * `display` - MVS project aimed to display occupancy grid map
 * `mapping` - MVS project: mapping algorithm, robot's controller: that project was developed using *ARIA* library (Advanced Robotics Interface for Applications: [link_to_github](https://github.com/cinvesrob/Aria))
-* `maps` - example maps
+* `maps` - example maps and videos
 * `raport.pdf` - more accurate description (in polish)
 
 ### Example maps
